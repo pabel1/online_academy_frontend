@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* font-family: 'Inter', sans-serif; */
+  font-family: "Outfit", sans-serif;
+  /* font-family: 'Roboto', sans-serif; */
+}
+
+section {
+  max-width: 1280px;
+  margin: 48px auto;
+}
